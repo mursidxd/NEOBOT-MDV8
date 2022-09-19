@@ -1,19 +1,19 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "NEOBOT-STORE",
-    "footer": "© BOTMD | 2022", 
+    "ownerNumber": "6281248009076@s.whatsapp.net", 
+    "ownerName": "Kina Cans", 
+    "botName": "BAYMAX",
+    "footer": "© BAYMAX | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/DHf4mb8QnmC5zynElmG2tG",
+    "group": "https://chat.whatsapp.com/KDzWzcKGzAy7pr1eHrsaJr",
     "yootube": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
      
-    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
-    "textBarisDonate1": "Dana : 0857-8900-4732",
-    "textBarisDonate2": "Ovo : 0857-8900-4732",
-    "textBarisDonate3": "Gopay : 08xxxxxxxxx",
-    "textBarisDonate4": "Pulsa : 0857-8900-4732",
+    "QrisAllPay": "https://telegra.ph/file/b1e8e6a876b326a691a8d.jpg",
+    "textBarisDonate1": "Dana : 0812-4800-9076",
+    "textBarisDonate2": "Ovo : 0882-3383-2771",
+    "textBarisDonate3": "Gopay : 0812-4800-9076",
+    "textBarisDonate4": "Pulsa : 0882-33832771",
   
     "ButtonTextMenu1": "Youtube",
     "ButtonTextMenu2": "Rest Api",
@@ -30,7 +30,7 @@
     "limitGame": 35,
     "gamewaktu": 90,
     "sticker": {
-        "packname": "© Store",
-        "author": "Lexxy Official"
+        "packname": "2022-2023",
+        "author": "Kina Developer"
     }
 }
